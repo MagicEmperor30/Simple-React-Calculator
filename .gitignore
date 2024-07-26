@@ -1,0 +1,63 @@
+# Node modules directory
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Log files
+*.log
+
+# Dependency directories
+bower_components/
+
+# IDE and editor-specific files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.vscode/
+*.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variable files
+.env
+.env.*.local
+
+# Coverage directory used by testing tools
+coverage/
+
+# React Native specific
+.expo/
+*.expo/
+
+# Package-lock and Yarn lock files
+package-lock.json
+yarn.lock
+
+# TypeScript build artifacts
+*.tsbuildinfo
+
+# Others
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Miscellaneous
+*.tmp
+*.pid
+*.seed
+*.log.*
+*.sublime-project
+*.sublime-workspace
+
+# Prettier configuration cache
+.prettierignore
+
+# JetBrains IDE configuration
+.idea/
